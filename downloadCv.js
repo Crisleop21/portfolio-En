@@ -1,6 +1,6 @@
 document.getElementById('btnDescargar').addEventListener('click', function() {
     // Ruta del archivo PDF que deseas descargar
-    var pdfUrl = 'cv/CV-Cristian-Poroj-Frontend-Jr.pdf';
+    var pdfUrl = 'cv/CV-Cristian-Poroj-Frontend-En.pdf';
     
     // Crea un enlace temporal
     var link = document.createElement('a');
